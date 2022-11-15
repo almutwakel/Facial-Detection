@@ -9,6 +9,8 @@ use the ensemble prediction functions by loading each model and data loader in a
 
 <img width="1030" alt="image" src="https://user-images.githubusercontent.com/57874328/202045013-21cf7038-ffcd-4507-af59-5d35b32883ce.png">
 
+https://wandb.ai/akh/hw2p2?workspace=user-akh
+
 Data augmentation experiments:
 Normalization
 RandomHorizontalFlip
